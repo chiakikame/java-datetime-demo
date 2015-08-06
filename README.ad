@@ -1,0 +1,4 @@
+= datetime-test
+
+This code demonstrate how to get UTC time and (milli)seconds from epoch with
+`joda-time` library and standard java 8 library.
